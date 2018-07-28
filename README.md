@@ -10,9 +10,9 @@ We are happy to announce the release of SmartHotel360. This release intends to s
 
 SmartHotel360 is a fictitious smart hospitality company showcasing the future of connected travel.  
 Their vision is to provide:
-- Intelligent, conversational, and personalized apps and experiences to guests 
-- Modern workplace experiences and smart conference rooms for business travelers
-- Real-time customer and business insights for hotel managers & investors
+- Intelligent, conversational, and personalized apps and experiences to guests.
+- Modern workplace experiences and smart conference rooms for business travelers.
+- Real-time customer and business insights for hotel managers & investors.
 - Unified analytics and package deal recommendations for campaign managers.
 
 There’s never been a better time to be a developer. Our intent with these set of reference apps and Azure backend is to show developers how to get started building the apps of the future, today!
